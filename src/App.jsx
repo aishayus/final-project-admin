@@ -8,7 +8,7 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 export default function App() {
-  const url = 'https://final-project-bd-1.onrender.com/'
+  const url = 'https://final-project-bd-1.onrender.com'
   return (
     <>
       <ToastContainer />
